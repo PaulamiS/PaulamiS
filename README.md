@@ -1,45 +1,44 @@
-<!-- Stylish GitHub README Inspired by Kiran -->
-
-<!-- 🌟 Top Banner -->
+<!-- 🌊 Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/banner.png" alt="Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/banner.png" alt="Banner" width="100%" />
 </p>
 
-<!-- 💬 Intro -->
-<h1 align="center">👋 I'M PAULAMI!</h1>
+<h1 align="center">Hi There! 👋</h1>
 
-<p align="center"><em>Digital Craftswoman (Developer / Programmer)</em></p>
+---
+
+### 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://dev.to/yourdevto" target="_blank">
+    <img src="https://img.shields.io/badge/DEV.to-000000?style=for-the-badge&logo=devdotto&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://reddit.com/u/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
   </a>
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### 🧑‍💻 A Little About Me...
 
-I am a **Full Stack Developer** and **AI/ML Enthusiast** with a strong passion for:
-
-- 🐍 Python • 🕸️ ReactJS • ⚙️ NodeJS • 🌐 REST APIs • 🧠 Machine Learning • 🧮 RDBMS • 📊 Data Visualization
-
-> *“I believe everyday is a learning opportunity and I code to create meaningful experiences.”*
-
-- 🎓 Computer Science Engineering Student  
-- 💡 Constantly exploring new tools and technologies  
-- 🚀 Building personal and collaborative projects  
-- ✨ Open Source Contributor
-
-<p align="right">
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/owl_confetti.gif" width="150px" alt="Celebration Owl"/>
-</p>
+- 👩‍🎓 CSE Student | Problem Solver | Tech Explorer  
+- 💻 Passionate about Full-Stack Web Dev, AI, and Open Source  
+- 🎨 Love designing, debugging, and building user-friendly UIs  
+- 🧠 Currently exploring DSA, React.js, and TensorFlow  
+- ☕ Can’t code without chai ☕  
 
 ---
 
@@ -47,70 +46,38 @@ I am a **Full Stack Developer** and **AI/ML Enthusiast** with a strong passion f
 
 | Degree | Institution | Year |
 |--------|-------------|------|
-| B.Tech in Computer Science and Engineering | Your University Name | 2022 - 2026 |
-| Higher Secondary (Class 12) | Your School Name | 2020 - 2022 |
-| Secondary (Class 10) | Your School Name | 2018 - 2020 |
+| B.Tech in CSE | Your University | 2022 – 2026 |
+| Higher Secondary | Your School | 2020 – 2022 |
 
 ---
 
-### 🚀 Projects
+### 📸 Coding Vibes
 
-- 🎮 **[AR Game using Unity](https://github.com/yourusername/ar-unity-game)**  
-  Augmented reality 3D game experience built with Unity and Vuforia.
-
-- 💬 **[AI Chatbot](https://github.com/yourusername/ai-chatbot)**  
-  Built with Python, trained on intents using NLP and TensorFlow.
-
-- 🌐 **[Portfolio Website](https://your-portfolio-link.com)**  
-  A responsive personal website with animations, dark/light mode, and contact form.
-
-- 📊 **[Data Dashboard](https://github.com/yourusername/data-dashboard)**  
-  Interactive visualization dashboard using Pandas and Plotly.
-
----
-
-### 🧰 Tech Stack
-
-| Domain       | Technologies |
-|--------------|--------------|
-| Languages    | Python, JavaScript, C++, Java |
-| Web Dev      | HTML, CSS, React.js, Node.js |
-| AI / ML      | scikit-learn, NumPy, Pandas, TensorFlow |
-| Tools        | Git, GitHub, VS Code, Postman |
-| Databases    | MySQL, Firebase |
-| OS           | Windows, Linux (Ubuntu) |
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/hacker-anime.gif" width="70%" alt="Coder GIF"/>
+</p>
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=github-dark&hide_border=true" width="48%" />
 </p>
 
 ---
 
-### 📚 Currently Learning
+### 🚀 Tech Stack
 
-- 🔥 Full-Stack Development (MERN)
-- 🤖 Machine Learning & AI Algorithms
-- 🎯 Competitive Programming & Problem Solving
-
----
-
-### 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/">LinkedIn</a> • 
-  <a href="mailto:your.email@example.com">Email</a> • 
-  <a href="https://your-portfolio-link.com">Portfolio</a>
-</p>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-> _“The best way to learn is by doing. Let's build something amazing together!”_
+> _“Create, break, debug, and repeat — that’s the dev life!”_
