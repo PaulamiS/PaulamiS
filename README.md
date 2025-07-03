@@ -1,84 +1,86 @@
-<!-- GitHub Profile README for a CSE Student -->
+<!-- Profile README for CSE Student with Banner -->
 
-<h1 align="center">Hi there, I'm Paulami Sahu 👩‍💻</h1>
+<!-- 🔷 Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/banner.png" width="100%" alt="Banner" />
+</p>
+
+<h1 align="center">Hi there, I'm Paulami Sahu 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Aspiring+Software+Engineer;AI-ML+Enthusiast;Lifelong+Learner&center=true&width=500&height=50" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=ffffff&center=true&vCenter=true&multiline=true&width=435&lines=Computer+Science+Student;Aspiring+Software+Engineer;AI-ML+Enthusiast;Lifelong+Learner" alt="Typing animation" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="sahupaulami97@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-### 👩‍🎓 About Me
+### 👩‍💻 About Me
 
-- 🎓 I'm a CSE undergraduate passionate about technology and innovation  
-- 💡 Currently exploring **AI/ML**, **Web Development**, and **Open Source**
-- 🛠️ Languages I work with: Python, JavaScript, C/C++, Java
-- 🚀 Interested in projects that solve real-world problems
-- 📫 Reach me at: `your.email@example.com`
+- 🎓 I'm a Computer Science student passionate about building and creating tech-driven solutions
+- 💡 Currently exploring **AI/ML**, **Web Development**, and **Cloud Computing**
+- 📫 Reach me at `your.email@example.com`
+- ⚡ Fun Fact: I love debugging more than coding sometimes 😄
 
 ---
 
-### 🧠 Tech Stack
+### 🧰 Tech Stack
 
-| Category | Technologies |
-| -------- | ------------ |
+| Category     | Technologies |
+| ------------ | ------------ |
 | 💻 Languages | Python, C++, Java, JavaScript |
-| 🌐 Web Dev | HTML, CSS, React.js, Node.js |
-| 🧠 AI/ML | scikit-learn, Pandas, NumPy, TensorFlow |
-| ⚙️ Tools | Git, GitHub, VS Code, Postman |
-| 🗄️ Databases | MySQL, Firebase |
-| 🐧 OS | Windows, Linux (Ubuntu) |
+| 🌐 Web Dev   | HTML, CSS, React.js, Node.js |
+| 🤖 AI / ML   | scikit-learn, NumPy, Pandas, TensorFlow |
+| 🧰 Tools     | Git, GitHub, VS Code, Postman |
+| 🗄️ Database | MySQL, Firebase |
+| 🐧 OS        | Windows, Linux (Ubuntu) |
 
 ---
 
-### 📌 Projects
+### 🚀 Projects
 
-Here are some highlights from my GitHub repositories:
+Here are some of my featured projects:
 
-- 🎮 **[3D AR Game using Unity](https://github.com/yourusername/project)**  
-  An Augmented Reality game developed using Unity and Vuforia.
+- 🎮 **[AR Game in Unity](https://github.com/yourusername/ar-unity-game)**  
+  A 3D Augmented Reality game using Unity and Vuforia.
 
-- 📊 **[Data Analysis Dashboard](https://github.com/yourusername/project)**  
-  Interactive dashboards built with Python, Pandas, and Plotly.
+- 📊 **[Data Dashboard](https://github.com/yourusername/data-dashboard)**  
+  Interactive dashboard built with Python, Pandas, and Plotly.
 
-- 🧠 **[AI Chatbot](https://github.com/yourusername/project)**  
-  A simple conversational AI bot trained on custom intents using Python and NLP.
+- 💬 **[AI Chatbot](https://github.com/yourusername/ai-chatbot)**  
+  NLP-powered chatbot using Python and TensorFlow.
 
-- 🎨 **[Personal Portfolio](https://your-portfolio-link.com)**  
-  Responsive web portfolio made with HTML, CSS, and JavaScript with scroll animations.
+- 🌐 **[Personal Portfolio Website](https://your-portfolio-link.com)**  
+  A responsive portfolio made using HTML, CSS, JS with animations and dark mode.
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="Stats" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight&hide_border=true" alt="Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight&hide_border=true" height="180px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🗓️ Currently Learning
+### 📚 Currently Learning
 
-- 🔭 Full-Stack Development (React + Node)
-- 🤖 Machine Learning
-- 🧩 Data Structures and Algorithms
+- 🌐 Full-Stack Development (React + Node.js)
+- 🤖 Machine Learning with TensorFlow
+- 🧩 Data Structures & Algorithms
 
 ---
 
-### 🤝 Let's Connect!
-
-If you're interested in collaborating or want to discuss tech, feel free to connect:
+### 🤝 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin/">LinkedIn</a> • 
@@ -88,5 +90,5 @@ If you're interested in collaborating or want to discuss tech, feel free to conn
 
 ---
 
-> 💡 _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+> _“Strive for progress, not perfection.”_
 
