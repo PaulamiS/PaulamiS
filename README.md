@@ -58,11 +58,11 @@
 
 ## 📊 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulamis&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PaulamiS&show_icons=true&theme=tokyonight)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=paulamis&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=PaulamiS&theme=tokyonight)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulamis&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulamiS&layout=compact&theme=tokyonight)
 
 ---
 
