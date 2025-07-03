@@ -54,7 +54,7 @@
 
 ---
 
-### 📈 GitHub Stats
+
 
 ## 📊 My GitHub Stats
 
@@ -78,4 +78,4 @@
 
 ---
 
-> _“Create, break, debug, and repeat — that’s the dev life!”_
+
