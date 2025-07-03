@@ -28,6 +28,16 @@
 
 ---
 
+### 🎓 Education
+
+| Degree | Institution | Year |
+|--------|-------------|------|
+| B.Tech in Computer Science and Engineering | Your University Name | 2022 - 2026 |
+| Higher Secondary (Class 12) | Your School Name | 2020 - 2022 |
+| Secondary (Class 10) | Your School Name | 2018 - 2020 |
+
+---
+
 ### 🧰 Tech Stack
 
 | Category     | Technologies |
